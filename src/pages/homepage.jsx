@@ -84,7 +84,7 @@ const Homepage = () => {
 				<div className="content-wrapper">
 					<div className="homepage-logo-container">
 						<div style={logoStyle}>
-							<Logo width={logoSize} link={false} />
+					    
 						</div>
 					</div>
 
@@ -92,7 +92,7 @@ const Homepage = () => {
 						<div className="homepage-first-area">
 							<div className="homepage-first-area-left-side">
 								<div className="title homepage-title">
-									{INFO.homepage.title}
+									Heshan <span style={}>Costa</span>
 								</div>
 
 								<div className="subtitle homepage-subtitle">
@@ -104,7 +104,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpg"
+											src="homepage2.jpg"
 											alt="about"
 											className="homepage-image"
 										/>
