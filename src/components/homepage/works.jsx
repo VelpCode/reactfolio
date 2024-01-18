@@ -32,9 +32,9 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">Home Plate Media</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Digital Marketting Intern
 							</div>
 							<div className="work-duration">2019 - Present</div>
 						</div>
