@@ -92,7 +92,7 @@ const Homepage = () => {
 						<div className="homepage-first-area">
 							<div className="homepage-first-area-left-side">
 								<div className="title homepage-title">
-									Heshan <span style={}>Costa</span>
+									Heshan <span style={{ color: '#A7CDEF' }}>Costa</span>
 								</div>
 
 								<div className="subtitle homepage-subtitle">
