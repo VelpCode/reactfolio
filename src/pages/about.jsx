@@ -32,19 +32,13 @@ const About = () => {
 			<div className="page-content">
 				<NavBar active="about" />
 				<div className="content-wrapper">
-					<div className="about-logo-container">
-						<div className="about-logo">
-							<Logo width={46} />
-						</div>
-					</div>
+					
 
 					<div className="about-container">
 						<div className="about-main">
 							<div className="about-right-side">
 								<div className="title about-title">
-									{INFO.about.title}
-								</div>
-
+								I’m Heshan <span style={{ color: '#A7CDEF' }}>Costa</span>. I live in Canada, where I build businesses.								</div>
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
@@ -54,7 +48,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="about.jpg"
+											src="dick.jpg"
 											alt="about"
 											className="about-image"
 										/>
