@@ -53,6 +53,12 @@
 	width: 100%;
 	border-radius: 10%;
 	transform: rotate(3deg);
+	transition: transform 0.5s ease;
+	cursor: pointer
+}
+
+.about-image-wrapper:hover {
+	transform: rotate(0deg);
 }
 
 .about-image-wrapper img {
@@ -94,6 +100,11 @@
 
 	.about-image-container {
 		padding-bottom: 40px;
+		transition: transform 0.5s ease;
+	}
+
+	.about-image-container:hover {
+		transform: rotate(-3deg);
 	}
 
 	.about-socials {
