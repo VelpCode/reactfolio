@@ -3,7 +3,6 @@ import { Helmet } from "react-helmet";
 
 import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
-import Logo from "../components/common/logo";
 import Article from "../components/articles/article";
 
 import INFO from "../data/user";
@@ -35,13 +34,12 @@ const Articles = () => {
 				<div className="content-wrapper">
 					<div className="articles-logo-container">
 						<div className="articles-logo">
-							<Logo width={46} />
 						</div>
 					</div>
 
 					<div className="articles-main-container">
 						<div className="title articles-title">
-							{INFO.articles.title}
+							I'm passionate about<span style={{ color: '#A7CDEF' }}> documenting</span> my learnings and helping others in the process.
 						</div>
 
 						<div className="subtitle articles-subtitle">

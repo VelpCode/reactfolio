@@ -3,14 +3,14 @@ import React from "react";
 function article_1() {
 	return {
 		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		title: "The Evolution of Consumer Behavior in the Digital Age. ",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"How digital platforms have transformed the way consumers interact with brands and make purchasing decisions.",
 		keywords: [
 			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Heshan",
+			"Heshan C",
+			"Heshan Costa",
 		],
 		style: `
 				.article-content {
@@ -42,15 +42,15 @@ function article_1() {
 function article_2() {
 	return {
 		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		title: "Social Media Marketing:Strategies for Engagement and Conversion",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"Discussing effective techniques for engaging with audiences on social media platforms and converting this engagement into tangible business outcomes.",
 		style: ``,
 		keywords: [
 			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"Heshan",
+			"Heshan C",
+			"Heshan Costa",
 		],
 		body: (
 			<React.Fragment>
