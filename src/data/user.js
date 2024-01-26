@@ -35,7 +35,7 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Solo Business - Plug1401",
 			description:
 			"Sourced items locally and internationally, and built a customer base that paid premium prices for the latest sneakers, capitalized on social media platforms to increase market awareness. Was extremely successful over 2 years which allowed me to move forward and find my next passion, Forex Trading.",
 			logo: "https://i.ibb.co/9p7JV6n/plug.png",
@@ -43,19 +43,18 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "Forex Trader",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"Created and implemented strategic trading approaches through the trading platform MetaTrader 4, actively traded for over 2 years by analyzing and executing trades on currency pairs, indices, and metals.",
+			logo: "https://i.ibb.co/pnBfMrk/bug.png",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 3",
+			title: "Productivity Improvement Project",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
+				"Initiated a productivity improvement project on my university campus. Identified opportunities to enhance productivity by optimizing workflow processes for students on campus. Utilized productivity metrics and KPIs to measure improvements and identify areas for further enhancements",
+			logo: "https://i.ibb.co/gD7ZhTj/alive.png",
 			link: "https://github.com",
 		},
 	],
