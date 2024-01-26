@@ -37,9 +37,8 @@ const INFO = {
 		{
 			title: "Project 1",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
+			"Sourced items locally and internationally, and built a customer base that paid premium prices for the latest sneakers, capitalized on social media platforms to increase market awareness. Was extremely successful over 2 years which allowed me to move forward and find my next passion, Forex Trading.",
+			logo: "https://i.ibb.co/9p7JV6n/plug.png",
 			link: "https://github.com",
 		},
 
@@ -48,7 +47,6 @@ const INFO = {
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
 			link: "https://github.com",
 		},
 
