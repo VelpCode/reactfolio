@@ -48,21 +48,25 @@
 	margin: 0 auto;
 }
 
+.hero-map {
+    @apply absolute right-0 top-0 h-screen w-screen bg-pattern-2 bg-cover bg-center md:-right-28 xl:-top-60;
+  }
+
 .title {
 	color: var(--primary-color);
 	font-family: var(--secondary-font);
-	font-size: 45px;
+	font-size: 65px;
 	font-weight: 700;
 	width: 70%;
 }
 
 .subtitle {
-	padding-top: 10px;
+	padding-top: 2px;
 	color: var(--secondary-color);
 	font-size: 16px;
 	line-height: 28px;
 	width: 70%;
-	margin-top: 25px;
+	margin-top: 8px;
 }
 
 .page-footer {
